@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1532382752999-45b3dc5d4bf2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "name": "Daniel Santiago da Silva1",
+      "email": "jamesfla14@gmail.com",
+      "birth": -10310284800000,
+      "blood": "A+",
+      "weight": "4",
+      "height": "7",
+      "id": 1,
+      "gender": "M"
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Daniel ",
+      "email": "danielsantiago.santiagodasilva@gmail.com",
+      "birth": 972345600000,
+      "gender": "M",
+      "blood": "B-",
+      "weight": "75",
+      "height": "3435",
+      "id": 2
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "name": "DaniSanT",
+      "avatar_url": "https://images.unsplash.com/photo-1532382752999-45b3dc5d4bf2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "birth": 468115200000,
+      "gender": "M",
+      "services": "r",
+      "created_at": 1586465509479
+    },
+    {
+      "id": 3,
+      "name": "g",
+      "avatar_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "birth": 955238400000,
+      "gender": "F",
+      "services": "h",
+      "created_at": 1586465625695
+    }
+  ]
+}
